@@ -7,6 +7,6 @@ Changed something here
 Modified ON MAR 19
 Implement feature #2
 
-Bug fix 1
+Bug fix 3 
 
 Bug fix 2
